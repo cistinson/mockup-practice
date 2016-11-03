@@ -34,8 +34,10 @@ header h3{
 
 nav {
   background-color:#a6a6a6;
-  padding:10px;
   text-align: center;
+  height:45px;
+  padding-top:10px;
+  padding-bottom:10px;
 }
 
 nav li{
