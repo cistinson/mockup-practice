@@ -35,7 +35,7 @@ header h3{
 nav {
   background-color:#a6a6a6;
   text-align: center;
-  height:100px;
+  padding:10px;
 }
 
 nav li{
@@ -45,7 +45,7 @@ nav li{
 }
 
 nav a{
-  color:#4d043c;  
+  color:#4d043c;
 }
 
 .left-mid-section h4{
