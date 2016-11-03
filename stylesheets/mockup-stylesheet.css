@@ -4,21 +4,26 @@ body{
 
 header{
   background-color: black;
+  line-height: 25px;
 }
 
 header h2{
   color:red;
   float:right;
-  margin-bottom:30px;
+  margin-bottom:50px;
   padding-right:5px;
 }
 
 header h1{
-  color:white;
-  font-size:40px;
+  font-size:50px;
   font: times new roman;
   clear:both;
   padding-left:20px;
+}
+
+header h1 a{
+  color:white;
+  text-decoration:none;
 }
 
 header h3{
@@ -70,7 +75,7 @@ nav a{
 aside h4{
   text-align: center;
   font-size:30px;
-  margin-top:5px
+  margin-top:10px
 }
 
 aside figcaption{
@@ -91,7 +96,6 @@ aside p{
 #All-She-Wants{
   text-align:left;
 }
-
 
 footer{
   clear:both;
